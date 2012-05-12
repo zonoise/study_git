@@ -1,0 +1,3 @@
+[submodule "lifegame"]
+	path = lifegame
+	url = https://zonoise@github.com/zonoise/lifegame.git
